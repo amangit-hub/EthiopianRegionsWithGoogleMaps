@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  overflow: none;
+  font-family: sani-serif;
+}
+body {
+  height: 100vh;
+  background: #123456;
+  overflow: hidden;
+}
+img {
+  margin-top: -300px;
+  height: 90vh;
+  transform: translate(50%, 50%);
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #04f504;
+}
